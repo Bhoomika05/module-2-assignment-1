@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[43]:
+1.
 
 
 x=input("enter number1 ")
@@ -13,7 +10,7 @@ else:
     
 
 
-# In[47]:
+2.
 
 
 x=input("enter value of x  ")
@@ -31,7 +28,7 @@ else:
     print("all are not equal")
 
 
-# In[48]:
+3.
 
 
 x=int(input("enter number1 "))
@@ -45,7 +42,7 @@ else:
     print("sum is less than 5")
 
 
-# In[49]:
+4.
 
 
 x=int(input("enter the marks "))
@@ -57,9 +54,7 @@ else:
     print("marks are equal to passing marks")
 
 
-# 
-
-# In[42]:
+5.
 
 
 x=int(input("enter the number1"))
